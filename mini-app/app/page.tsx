@@ -1,6 +1,5 @@
 import { description, title } from "@/lib/metadata";
 
-export { generateMetadata };
 
 import { generateMetadata } from "@/lib/farcaster-embed";
 import { Introduction } from "@/components/introduction";
