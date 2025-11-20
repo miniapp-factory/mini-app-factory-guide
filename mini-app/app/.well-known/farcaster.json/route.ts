@@ -23,7 +23,7 @@ export async function GET() {
     baseBuilder,
     miniapp: {
       version: "1",
-      name: title,
+      name: "Base Mini App Factory Guide",
       iconUrl: `${url}/logo.png`,
       homeUrl: url,
       imageUrl: `${url}/logo.png`,
